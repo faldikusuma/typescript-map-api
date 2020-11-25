@@ -1,0 +1,17 @@
+{
+  "name": "typescript-mapapi-fetching",
+  "version": "1.0.0",
+  "description": "typescript api call",
+  "main": "index.js",
+  "author": "faldi kusuma",
+  "license": "MIT",
+  "dependencies": {
+    "@types/faker": "^5.1.2",
+    "@types/googlemaps": "^3.40.3",
+    "axios": "^0.21.0",
+    "faker": "^5.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
